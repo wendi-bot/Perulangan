@@ -1,5 +1,3 @@
-﻿No1
-
 function palindrome(str) {
 
     let pali = str.length;
