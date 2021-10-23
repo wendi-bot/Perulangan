@@ -1,5 +1,3 @@
-﻿No2
-
 function angkaPalindrome(num) {
     let leftSide = 1;
     let rightSide = 2;
